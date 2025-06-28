@@ -1,0 +1,11 @@
+matplotlib==3.8.3
+numpy==1.23.0
+opencv_contrib_python==4.6.0.66
+opencv_python==4.10.0.84
+opencv_python_headless==4.10.0.82
+pycuda==2024.1
+pygame==2.5.2
+pyserial==3.5
+tensorrt==8.6.1
+torch==2.7.0+cu118
+torchvision==0.22.0+cu118

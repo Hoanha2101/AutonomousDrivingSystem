@@ -1,0 +1,20 @@
+# Ignore model weights
+data/weights/
+*.pt
+*.onnx
+*.trt
+*.engine
+
+# Ignore videos
+videos/
+*.mp4
+
+# Ignore cache & temp files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
