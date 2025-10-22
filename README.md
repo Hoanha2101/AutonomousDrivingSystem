@@ -29,7 +29,7 @@
 |-----------------------------|--------------------------------|
 | ✅ Model Training (YOLOPv2)  | Not public (paper under review) |
 | ✅ PyTorch Inference         | Available                      |
-| ⏳ ONNX Conversion           | Coming soon                    |
+| ✅ ONNX Conversion           | Available                    |
 | ✅ ONNX Inference            | Available                      |
 | ✅ TensorRT Conversion       | Available                      |
 | ✅ TensorRT Inference        | Available                      |
